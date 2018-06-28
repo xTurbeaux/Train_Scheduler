@@ -1,0 +1,32 @@
+body {
+    
+    width: 85%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: lightblue;
+    }
+
+td {
+    text-align: center;
+    background-color: lightblue;
+}
+
+th {
+    text-align: center;
+    font-weight: bold;
+    background-color: lightblue;
+}
+
+.panel-title {
+    font-weight: bold;
+    background-color: lightblue;
+}
+
+label {
+    font-weight: bold;
+    background-color: lightblue;
+}
